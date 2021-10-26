@@ -1,0 +1,42 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width:100%;
+    padding:20px;
+    height: 20px;
+    z-index: 1;
+
+    transition-timing-function:ease-in;
+    transition:all 0.5s;
+
+     /* display:flex;
+    justify-content: space-between;  */
+}
+.nav__black{
+    background-color: #111;
+}
+.nav__logo{
+    width:80px;
+    object-fit: contain;
+    left:28px;
+    position: fixed;
+}
+.nav__avatar{
+    position: fixed;
+    right:20px;
+    width:30px;
+    width:30px;
+    object-fit:contain;
+}
+.button{
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #e50914;
+    padding: 7px 17px;
+    margin-top: 0.8rem;
+    font-size: 1rem;
+    float: right;
+    line-height: normal;
+    
+}
