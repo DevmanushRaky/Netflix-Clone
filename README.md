@@ -1,4 +1,4 @@
-# Work Sample 1
+# Netflix Clone
 
 this is clone of netflix originals as **Netflix-clone** using ReactJs . you can learn more about ReactJs (https://reactjs.org/)
 
